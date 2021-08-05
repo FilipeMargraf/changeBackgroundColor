@@ -1,0 +1,25 @@
+body {
+    font: 12pt Arial; 
+    font-style: italic;
+}
+
+button {
+    margin: 12px;
+    padding: 20px;
+    font-size: 10pt;
+    background-color: blue; 
+    color: aliceblue; 
+    border-radius: 10%;
+}
+
+button:hover{
+    background-color: rgb(156, 156, 156); 
+    color: black; 
+    transition: 0.3s; 
+    padding-right: 50px; 
+    font-size: 13pt;
+}
+
+#list li{
+    list-style: none;
+}
